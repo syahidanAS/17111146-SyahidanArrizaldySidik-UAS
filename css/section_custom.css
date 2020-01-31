@@ -1,0 +1,15 @@
+nav ul li:hover {
+   background-color: #d32f2f;
+}
+
+body{
+	 background: #000000;
+}
+.parallax{ 
+  -webkit-filter:brightness(50%); 
+}
+
+
+.pendek{
+	height: 400px !important;
+}
